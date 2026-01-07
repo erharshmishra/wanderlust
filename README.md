@@ -1,8 +1,7 @@
 # wanderlust
 Wanderlust is a **full-stack web application** inspired by the **Airbnb** platform. It allows users to explore listings, view details, and interact with a clean, modern UI.
 
-🌐 **Live Demo:**  
-👉 https://wanderlust-njjq.onrender.com/listings
+🌐 **Live Demo:** 👉 https://wanderlust-njjq.onrender.com/listings
 
 ## 🚀 Features
 - 🏠 Browse property listings.
